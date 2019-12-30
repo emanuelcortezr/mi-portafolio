@@ -1,8 +1,66 @@
 .navbar{
-    background-color: white;
+  background-color: #660066;
+    font-family: 'Oswald', sans-serif;
 }
 
-.nav-link{
+.navbar-brand{
+    font-size: 30px;
+}
+
+.jumbotron{
+    background-repeat: no-repeat;
+    height: 800px;
+    background-size: cover;
+    
+}
+.sobre_mi{
     text-align: center;
-    color: tomato;
+    font-family: 'Oswald', sans-serif;
+    
+}
+
+#experiencia{
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    padding-top: 40px;
+    
+
+
+}
+.parrafo1{
+text-align: center;
+font-family: 'Open Sans', sans-serif;
+font-size: 20px;
+}
+
+#mis_trabajos{
+    background-color:#660066;
+    font-family: 'Oswald', sans-serif;
+    padding-top: 40px;
+    color: white;
+    
+}
+
+.fas{
+    color: #660066;
+}
+.container{
+    text-align: center;
+    font-size: 30px;
+    padding-bottom: 40px;
+    
+}
+
+#contacto{
+    font-family: 'Oswald', sans-serif;
+    padding-top: 40px;
+}
+
+.footer{
+    background-color:#660066 ;
+    
+    
+}
+.sub_edicto{
+    padding-top: 15px;
 }
