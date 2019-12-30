@@ -16,6 +16,7 @@
 .sobre_mi{
     text-align: center;
     font-family: 'Oswald', sans-serif;
+    font-size: 60px;
     
 }
 
@@ -53,7 +54,7 @@ font-size: 20px;
 
 #contacto{
     font-family: 'Oswald', sans-serif;
-    padding-top: 40px;
+    padding-top: 50px;
 }
 
 .footer{
