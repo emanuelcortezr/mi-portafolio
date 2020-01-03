@@ -1,6 +1,10 @@
 .navbar{
-  background-color: #660066;
-    font-family: 'Oswald', sans-serif;
+  background-color: #0d7687;
+    font-family:'Contrail One', cursive;
+}
+.hr1{
+    width: 27%;
+    margin-left: 40px;
 }
 
 .navbar-brand{
@@ -11,40 +15,62 @@
     background-repeat: no-repeat;
     height: 800px;
     background-size: cover;
+    font-family: 'Contrail One', cursive;
     
+}
+.hola{
+    margin-left: 60px;
+    margin-top: 70px;
+}
+.nombre{
+    font-family: 'Yesteryear', cursive;
+    font-size: 80px;
+    margin-left: 60px;
+
 }
 .sobre_mi{
     text-align: center;
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Contrail One', cursive;
     font-size: 40px;
-    
-}
-
-#experiencia{
-    text-align: center;
-    font-family: 'Oswald', sans-serif;
-    padding-top: 40px;
-   
-    
-
-
+    letter-spacing: 7px;
 }
 .parrafo1{
-text-align: center;
-font-family: 'Open Sans', sans-serif;
-font-size: 30px;
+    text-align: center;
+    font-family: 'Lekton', sans-serif;
+    font-size: 30px;
+    
+    }
+.hr2{
+    width: 30%;
+    
+    border-color:  #0d7687;
+    border-width: 5px;
+    
+    
+}
+#experiencia{
+    text-align: center;
+    font-family: 'Contrail One', cursive;
+    padding-top: 40px;
+    letter-spacing: 7px;
 }
 
+
 #mis_trabajos{
-    background-color:#660066;
-    font-family: 'Oswald', sans-serif;
+    background-color:#0d7687;
+    font-family: 'Contrail One', cursive;
     padding-top: 40px;
     color: white;
     
 }
-
+.hr3{
+    width: 30%;
+    
+    border-color: white;
+    border-width: 5px;
+}
 .fas{
-    color: #660066;
+    color: #0d7687;
 }
 .container{
     text-align: center;
@@ -54,12 +80,14 @@ font-size: 30px;
 }
 
 #contacto{
-    font-family: 'Oswald', sans-serif;
-    padding-top: 50px;
+    font-family: 'Contrail One', cursive;
+    
 }
-
+.contacto{
+    padding-top: 20px;
+}
 .footer{
-    background-color:#660066;
+    background-color:#0d7687;
     
     
 }
